@@ -1,0 +1,5 @@
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\Money\bin\Debug\Money.exe.config
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\Money\bin\Debug\Money.exe
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\Money\bin\Debug\Money.pdb
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\Money\obj\Debug\Money.exe
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\Money\obj\Debug\Money.pdb

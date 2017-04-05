@@ -1,0 +1,6 @@
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\TileRepairement\bin\Debug\TileRepairement.exe.config
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\TileRepairement\bin\Debug\TileRepairement.exe
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\TileRepairement\bin\Debug\TileRepairement.pdb
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\TileRepairement\obj\Debug\TileRepair.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\TileRepairement\obj\Debug\TileRepairement.exe
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\TileRepairement\obj\Debug\TileRepairement.pdb

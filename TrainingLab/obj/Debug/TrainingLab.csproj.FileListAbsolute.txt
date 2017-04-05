@@ -1,0 +1,6 @@
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\TrainingLab\bin\Debug\TrainingLab.exe.config
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\TrainingLab\bin\Debug\TrainingLab.exe
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\TrainingLab\bin\Debug\TrainingLab.pdb
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\TrainingLab\obj\Debug\TrainingLab.exe
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\TrainingLab\obj\Debug\TrainingLab.pdb
+C:\Users\USER\documents\visual studio 2017\Projects\CSharp_Book\TrainingLab\obj\Debug\TrainingLab.csprojResolveAssemblyReference.cache
